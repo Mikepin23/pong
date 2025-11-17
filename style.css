@@ -1,5 +1,7 @@
+@import url("https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap");
+
 body {
-    background-color: antiquewhite;
+  background-color: antiquewhite;
 }
 
 #gameContainer {
@@ -10,7 +12,7 @@ body {
 
 #gameBoard {
   border: 0.3rem solid;
-  margin : 2rem;
+  margin: 2rem;
 }
 
 #scoreText {
@@ -18,7 +20,8 @@ body {
   font-size: 4rem;
 }
 
-#gameStartBtn, #resetBtn {
+#gameStartBtn,
+#resetBtn {
   font-family: "Permanent Marker", cursive;
   font-size: 1.5rem;
   padding: 0.5rem;
