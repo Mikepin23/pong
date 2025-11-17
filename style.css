@@ -1,0 +1,36 @@
+body {
+    background-color: antiquewhite;
+}
+
+#gameContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#gameBoard {
+  border: 0.3rem solid;
+  margin : 2rem;
+}
+
+#scoreText {
+  font-family: "consolas", monospace;
+  font-size: 4rem;
+}
+
+#gameStartBtn, #resetBtn {
+  font-family: "Permanent Marker", cursive;
+  font-size: 1.5rem;
+  padding: 0.5rem;
+  margin-top: 2rem;
+  background-color: azure;
+  border: 0.3rem solid;
+  border-radius: 1rem;
+  cursor: pointer;
+}
+#instructions {
+  font-family: "Permanent Marker", cursive;
+  font-size: 1.25rem;
+  margin-top: 2rem;
+  justify-items: center;
+}

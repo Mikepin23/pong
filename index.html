@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Pong</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div id="gameContainer">
+      <button id="gameStartBtn">Game Start</button>
+      <canvas id="gameBoard" width="500" height="500"></canvas>
+      <div id="scoreText">0 : 0</div>
+      <button id="resetBtn">Reset Game</button>
+    </div>
+    <div id="instructions">
+      <p>
+        <strong>Instructions:</strong><br /><br/>
+        Player 1 (Left Paddle): Use <b>W</b> (up) and <b>S</b> (down) keys.<br />
+        Player 2 (Right Paddle): Use <b>Up Arrow</b> (↑) and
+        <b>Down Arrow</b> (↓) keys.<br />
+        Press <b>Game Start</b> button to begin. <br />
+        Press <b>Reset Game</b> to restart at any time. <br />
+        The first to <b>5</b> wins!
+      </p>
+    </div>
+    <script src="index.js"></script>
+  </body>
+</html>
