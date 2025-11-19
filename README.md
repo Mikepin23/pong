@@ -79,6 +79,7 @@ This project is live and playable:
 
 Created by **Michael Pinsonneault**
 
+- [Portfolio](https://portfolio-michael-pinsonneault.onrender.com)
 - [GitHub](https://github.com/Mikepin23)
 - [LinkedIn](https://www.linkedin.com/in/michael-pinsonneault)
 
