@@ -67,7 +67,9 @@ Pong is one of the earliest arcade video games. This web version is simple, fun,
 
 ---
 
-## 🚢 Deployment
+
+
+## 💻 Try It Yourself
 
 This project is live and playable:
 
