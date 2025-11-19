@@ -83,4 +83,4 @@ Created by **Michael Pinsonneault**
 - [GitHub](https://github.com/Mikepin23)
 - [LinkedIn](https://www.linkedin.com/in/michael-pinsonneault)
 
-> Thank you for reviewing my project!
+> Thank you for checking out my project!
